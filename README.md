@@ -1,4 +1,4 @@
-Website is [here](https://atomicbeatboy.github.io/atomicbeatboy/).
+The website is [here](https://atomicbeatboy.github.io/atomicbeatboy/).
 
 <!--
 **atomicbeatboy/atomicbeatboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
